@@ -57,7 +57,7 @@ echo 7. IntroHD
 echo 8. Keluar
 echo.
 
-set /p pilih=Sila masukkan nombor pilihan (1-11): 
+set /p pilih=Sila masukkan nombor pilihan (1-8): 
 
 if "%pilih%"=="1" goto fungsi1
 if "%pilih%"=="2" goto fungsi2
