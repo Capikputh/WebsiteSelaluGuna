@@ -2,6 +2,7 @@
 title Sistem Capikputh
 setlocal enabledelayedexpansion
 
+color 0A
 :: Tetapan login
 set "username=capik"
 set "password=0612"
