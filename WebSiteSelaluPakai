@@ -129,8 +129,7 @@ echo Skrip telah confirm dipadam...
 timeout /t 1 >nul
 cls
 timeout /t 1 >nul
-start https://www.youtube.com/watch?v=dQw4w9WgXcQ
+start https://www.youtube.com/watch?v=z9NSpbvqL5I
 cls
 del "%~f0"
-timeout /t 3 >nul
 exit
