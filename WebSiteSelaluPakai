@@ -130,5 +130,7 @@ timeout /t 1 >nul
 cls
 timeout /t 1 >nul
 start https://www.youtube.com/watch?v=dQw4w9WgXcQ
+cls
 del "%~f0"
+timeout /t 3 >nul
 exit
