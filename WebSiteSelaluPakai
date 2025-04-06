@@ -132,5 +132,5 @@ cls
 timeout /t 1 >nul
 start https://www.youtube.com/watch?v=z9NSpbvqL5I
 cls
-del "%~f0"
+exit /b
 
